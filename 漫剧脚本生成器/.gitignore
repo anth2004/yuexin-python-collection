@@ -1,0 +1,9 @@
+# 自己的密钥配置，绝对不能上传到 GitHub
+config.py
+
+# Python 运行时自动生成的缓存
+__pycache__/
+*.pyc
+
+# 生成的脚本结果（可选，不想传成品就留着）
+output/
